@@ -1,0 +1,47 @@
+# Python / Caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+
+# Scratch and test files
+scratch/
+test_*.js
+test_*.txt
+test_*.png
+test_*.json
+live_feed.json
+title_out.txt
+*.b64.txt
+debug_*.js
+debug_*.py
+extracted_*.js
+served_js.js
+theme_script.js
+preview_script.js
+live_blogger.js
+
+# Temporary screenshots and slice images
+sec*.png
+comp*.png
+check_*.png
+shot_*.png
+slice_*.png
+my_shot.png
+new_shot*.png
+new_screenshot*.png
+perfect_shot*.png
+perfect_final_shot.png
+fixed_screenshot*.png
+verified_modal_visual.png
+modal_screenshot.png
+forced_modal_shot.png
+phone_screen*.png
+mobile_view*.png
+verify_*.png
+banner_inspect.png
+cards_area.png
+card1_sample.png
+card_laptop_orig.png
+final_comparison_side_by_side.png
+file_00000000365081f4868b6b69cdb83e71.png
